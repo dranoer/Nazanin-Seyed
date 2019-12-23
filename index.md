@@ -1,4 +1,5 @@
-## Welcome to my personal page
+## Hi, thanks for visiting
+
 - Bachelor of Software Engineering
 - More than 3 years experience of Mobile developing
 - Update about new technology trends and tools
