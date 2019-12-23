@@ -5,16 +5,14 @@
 - Responsible for researching, analyzing, designing, and delivery of technical components of the application
 - Able to work both independently and within a team to complete assigned tasks
 
-### Header
-Base qualifications:
+### Base qualifications:
 - Flutter Development
 - Native Android Development
 - Mobile Development Life Cycle
 - User Experience Design
 - Open for teamwork
 
-### Header
-Technical Skills:
+### Technical Skills:
 - Kotlin
 - Java
 - Android SDK
