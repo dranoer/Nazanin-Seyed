@@ -15,6 +15,7 @@
 ### Technical Skills:
 - Kotlin
 - Java
+- Dart
 - Android SDK
 - XML
 - MVVM, MVP, MVC and Clean Architecture
